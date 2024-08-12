@@ -1,5 +1,5 @@
 # Swiggy-Sales-Analysis
-Project: Swiggy Sales Analysis from Top Metro Cities in India
+Project: Swiggy Sales Analysis from Top Metro Cities in India.
 Kindly download the raw file
 Project workflow:
 - Database Creation
